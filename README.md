@@ -1,15 +1,21 @@
 ![Header](https://github.com/master7dok/master7dok/blob/main/assets/img.jpg)
-## I'm a learning programming from 2015; completed 2 engineering bachelor's degree 
+## Java Developer
+##Highly motivated and experienced computer engineer seeking to transition into a Java developer role. Skilled in computer hardware and software troubleshooting, with a ##strong interest in programming and a passion for learning new technologies. Seeking a challenging and dynamic work environment to apply my technical skills and drive ##career growth in the field of backend software development. 
 
 ### Languages and Tools:
-![HTML5](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html&logoColor=F88C00)
-![CSS3](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css&logoColor=E5D3FF)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![PHP](https://img.shields.io/badge/-php-090909?style=for-the-badge&logo=php&logoColor=F8C52C)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=47C5FB)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=097CDB)
-![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
+![PostgreSQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
+![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=php&logoColor=F8C52C)
+![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=php&logoColor=F8C52C)
+![REST API](https://img.shields.io/badge/-REST_API-090909?style=for-the-badge&logo=php&logoColor=F8C52C
+![Agile](https://img.shields.io/badge/-Agile-090909?style=for-the-badge&logo=php&logoColor=F8C52C
+![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=php&logoColor=F8C52C
+![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=php&logoColor=F8C52C
+![Maven](https://img.shields.io/badge/-Maven-090909?style=for-the-badge&logo=php&logoColor=F8C52C
+![Gradle](https://img.shields.io/badge/-Gradle-090909?style=for-the-badge&logo=php&logoColor=F8C52C
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=php&logoColor=F8C52C
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=php&logoColor=F8C52C
+
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/master7dok)
