@@ -1,6 +1,6 @@
 ![Header](https://github.com/master7dok/master7dok/blob/main/assets/img.jpg)
 ## Java Developer
-##Highly motivated and experienced computer engineer seeking to transition into a Java developer role. Skilled in computer hardware and software troubleshooting, with ##a strong interest in programming and a passion for learning new technologies. Seeking a challenging and dynamic work environment to apply my technical skills and drive ##career growth in the field of backend software development. 
+Highly motivated and experienced computer engineer seeking to transition into a Java developer role. Skilled in computer hardware and software troubleshooting, with a strong interest in programming and a passion for learning new technologies. Seeking a challenging and dynamic work environment to apply my technical skills and drive career growth in the field of backend software development. 
 
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=47C5FB)
@@ -13,6 +13,7 @@
 ![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=hibernate&logoColor=F8C52C)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F8C52C)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=F8C52C)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-090909?style=for-the-badge&logo=intellij&logoColor=F8C52C)
 
 
 ### Follow Me:
