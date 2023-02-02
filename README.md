@@ -3,8 +3,8 @@
 Highly motivated and experienced computer engineer seeking to transition into a Java developer role. Skilled in computer hardware and software troubleshooting, with a strong interest in programming and a passion for learning new technologies. Seeking a challenging and dynamic work environment to apply my technical skills and drive career growth in the field of backend software development. 
 
 ### Languages and Tools:
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=47C5FB)
-![PostgreSQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=postgresql&logoColor=00648B)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=F8C52C)
+![PostgreSQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=postgresql&logoColor=F8C52C)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=F8C52C)
 ![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=bash&logoColor=F8C52C)
 ![REST_API](https://img.shields.io/badge/-REST_API-090909?style=for-the-badge&logo=REST&logoColor=F8C52C)
