@@ -13,7 +13,7 @@ Highly motivated and experienced computer engineer seeking to transition into a 
 ![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=hibernate&logoColor=F8C52C)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F8C52C)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=F8C52C)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-090909?style=for-the-badge&logo=intellij&logoColor=F8C52C)
+
 
 
 ### Follow Me:
